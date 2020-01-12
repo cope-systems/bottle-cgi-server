@@ -1,2 +1,3 @@
 # bottle-cgi-server
-A CGI Server Plugin for Bottle.
+
+An experimental CGI Server Plugin for Bottle.
